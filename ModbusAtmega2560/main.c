@@ -2,7 +2,7 @@
  * ModbusAtmega2560.c
  *
  * Created: 04.02.2016 14:31:39
- * Author : m.dereschkewitz
+ * Author : m.d.
  *
  * FreeModbus Libary: AVR Demo Application
  *
